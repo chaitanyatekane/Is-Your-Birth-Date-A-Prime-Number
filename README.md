@@ -1,7 +1,7 @@
 ## About The Project
 
 
-[Is-Your-Birth-Date-A-Prime-Number](https://replit.com/@chaitanyatekane/Is-Your-Birth-Date-A-Prime-Number?embed=1&output=1#index.js) is a small fun game, to check if birth date is a prime number or not. This is a CLI app created using NodeJs and hosted using [replit](https://replit.com/). I have customize output of command-line by improving the quality of the output by providing several colors using [chalk npm package](https://www.npmjs.com/package/chalk).
+[Is-Your-Birth-Date-A-Prime-Number](https://replit.com/@chaitanyatekane/Is-Your-Birth-Date-A-Prime-Number?embed=1&output=1#index.js) is a small fun game, to check if birth date of user is prime number or not. This is a CLI app created using NodeJs and hosted using [replit](https://replit.com/). I have customize output of command-line by improving the user experience, by providing several colors using [chalk npm package](https://www.npmjs.com/package/chalk).
 
 ## Demo
 
