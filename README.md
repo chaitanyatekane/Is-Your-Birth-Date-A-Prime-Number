@@ -3,7 +3,7 @@
 
 [Is-Your-Birth-Date-A-Prime-Number](https://replit.com/@chaitanyatekane/Is-Your-Birth-Date-A-Prime-Number?embed=1&output=1#index.js) is a small fun game, to check if birth date of user is prime number or not. This is a CLI app created using NodeJs and hosted using [replit](https://replit.com/). I have customize output of command-line by improving the user experience, by providing several colors using [chalk npm package](https://www.npmjs.com/package/chalk).
 
-## Demo
+## Live Demo
 
 
 [Click To Preview](https://replit.com/@chaitanyatekane/Is-Your-Birth-Date-A-Prime-Number?embed=1&output=1#index.js)
@@ -12,6 +12,22 @@
 
 
 * NodeJs
+
+## Issues
+
+
+Feel free to submit [issues](https://github.com/chaitanyatekane/Is-Your-Birth-Date-A-Prime-Number/issues) and enhancement requests.
+
+## Contribute
+
+
+ 1. **Fork** this repo on GitHub
+ 2. **Clone** this project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that I can review your changes
+
+NOTE: Make sure to merge the latest from "upstream" before making a pull request!
 
 ## Acknowledgements
 
@@ -31,5 +47,5 @@
 <a href="https://twitter.com/chaitanyatekne"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://leetcode.com/chaitanyatekane/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://chaitanyatekane.hashnode.dev/"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://instagram.com/tekanechaitanya.com?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/tekanechaitanya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
